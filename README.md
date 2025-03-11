@@ -11,7 +11,7 @@ $$
 
 where:
 - \( T(t) \) is the temperature of your tea at time \( t \).
-- \( T_{\text{ambient}} \) is the room (ambient) temperature.
+- \( Tambient \) is the room (ambient) temperature.
 - \( k \) is a constant related to how fast your tea cools.
 
 ### 🔍 Exact Solution
